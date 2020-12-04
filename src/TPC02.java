@@ -10,11 +10,11 @@ public class TPC02 {
 		c = a + b;
 
 		System.out.println(c);
-		
+
 		float f; // float, double
 		f = 34.5f;
 		System.out.println(f);
-		
+
 		char d;
 		d = 'A';
 		System.out.println(d);
