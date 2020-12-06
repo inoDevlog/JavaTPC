@@ -19,6 +19,10 @@ public class TPC02 {
 		char d;
 		d = 'A';
 		System.out.println(d);
+		
+		boolean g;
+		g = true;
+		System.out.println(g);
 	}
 
 }
