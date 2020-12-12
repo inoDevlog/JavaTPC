@@ -16,19 +16,19 @@ public class TPC03 {
 		b.price = 15000;
 		b.company = "한빛미디어";
 		b.page = 700;
-		
+
 		System.out.println(b.title);
 		System.out.println(b.price);
 		System.out.println(b.company);
 		System.out.println(b.page);
-		
+
 		PersonVO p;
 		p = new PersonVO();
 		p.name = "CHOI";
 		p.age = 38;
 		p.weight = 82.1f;
 		p.height = 182.7f;
-		
+
 		System.out.println(p.name);
 		System.out.println(p.age);
 		System.out.println(p.weight);
