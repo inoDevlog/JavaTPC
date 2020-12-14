@@ -10,8 +10,7 @@ public class TPC03 {
 		a = 10;
 
 		// 책 1권을 저장하기 위한 변수를 선언하시오.
-		Book b;
-		b = new Book();
+		Book b = new Book();
 		b.title = "Java";
 		b.price = 15000;
 		b.company = "한빛미디어";
@@ -22,8 +21,7 @@ public class TPC03 {
 		System.out.println(b.company);
 		System.out.println(b.page);
 
-		PersonVO p;
-		p = new PersonVO();
+		PersonVO p = new PersonVO();
 		p.name = "CHOI";
 		p.age = 38;
 		p.weight = 82.1f;
