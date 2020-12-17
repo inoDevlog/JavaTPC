@@ -8,6 +8,7 @@ public class TPC05 {
 		a[2] = 30;
 		int sum = 0;
 		for (int i = 0; i < a.length; i++) {
+			
 			sum += a[i];
 		}
 		System.out.println(sum);
@@ -26,6 +27,7 @@ public class TPC05 {
 
 		for (int i = 0; i < b.length; i++) {
 			for (int j = 0; j < b[i].length; j++) {
+				
 				System.out.print(b[i][j] + "\t");
 			}
 			System.out.println();
@@ -41,12 +43,11 @@ public class TPC05 {
 
 		for (int i = 0; i < star.length; i++) {
 			for (int j = 0; j < star[i].length; j++) {
+				
 				star[i][j] = '*';
 				System.out.print((char) star[i][j]);
 			}
 			System.out.println();
 		}
-
 	}
-
 }
