@@ -1,4 +1,3 @@
-
 public class TPC07 {
 	public static void main(String[] args) {
 

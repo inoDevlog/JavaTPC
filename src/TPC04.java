@@ -1,4 +1,3 @@
-
 public class TPC04 {
 	public static void main(String[] args) {
 		// 4. 데이터를 이동하라(변수 VS 배열)

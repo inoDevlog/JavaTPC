@@ -1,4 +1,3 @@
-
 public class TPC06 {
 	public static void main(String[] args) {
 		// 5. 메서드 -> 동작(method), 기능(function)
