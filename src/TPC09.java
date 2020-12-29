@@ -6,7 +6,7 @@ public class TPC09 {
 		int b = 40;
 		// a + b =?
 		// int v = sum(a,b);
-		TPC09 tpc = new TPC09();
+		TPC09 tpc = new TPC09(); // heap Area
 		int v = tpc.sum(a, b);
 		System.out.println(v);
 	}

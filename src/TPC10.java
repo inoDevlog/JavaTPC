@@ -5,11 +5,10 @@ public class TPC10 {
 		// int, float, char, boolean -> PDT
 		int a;
 		a = 10;
-		
+
 		// 책(BookDTO)이라는 자료형을 만들자. --> class
-		BookDTO b;
-		b = new BookDTO();
-		
+		BookDTO b = new BookDTO();
+
 	}
 
 }
