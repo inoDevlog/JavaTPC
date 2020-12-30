@@ -4,7 +4,7 @@ public class BookDTO {
 
 	public String title;
 	public int price;
-	public String complay;
+	public String company;
 	public int page;
 
 	// 디폴트 생성자 메서드(생략)
