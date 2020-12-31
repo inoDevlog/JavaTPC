@@ -1,6 +1,7 @@
 import kr.tpc.BookDTO;
 
 public class TPC10 {
+	
 	public static void main(String[] args) {
 		// int, float, char, boolean -> PDT
 		int a;
