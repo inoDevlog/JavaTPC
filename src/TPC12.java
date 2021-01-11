@@ -21,4 +21,4 @@ public class TPC12 {
 		System.out.println(b3.title + "\t" + b3.price + "\t" + b3.company + "\t" + b3.page);
 
 	}
-} 
+}
