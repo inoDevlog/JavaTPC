@@ -1,7 +1,7 @@
 package kr.tpc;
 
 public class Inflearn {
-	
+
 	private Inflearn() {
 
 	}
