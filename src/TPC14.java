@@ -7,7 +7,7 @@ public class TPC14 {
 
 		m.setName("DaYoon");
 		m.setAge(7);
-		m.setTel("01011111111");
+		m.setTel("010-1111-1111");
 		m.setAddr("SEOUL");
 
 		System.out.println(m.getName());
