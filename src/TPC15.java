@@ -1,7 +1,9 @@
 import kr.tpc.MemberVO;
 
 public class TPC15 {
+	
 	public static void main(String[] args) {
+		
 		MemberVO m = new MemberVO("홍길동", 40, "010-1111-1111", "서울");
 		// setter method - X
 		System.out.println(m.getName());

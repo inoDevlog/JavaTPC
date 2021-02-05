@@ -1,7 +1,7 @@
 package kr.tpc;
 
 public class MemberVO {
-	
+
 	private String name;
 	private int age;
 	private String tel;
