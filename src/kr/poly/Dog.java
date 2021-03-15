@@ -1,4 +1,4 @@
-package kr.tpc;
+package kr.poly;
 
 public class Dog extends Animal {
 	// 이름, 나이, 종 : 상태정보
@@ -9,5 +9,9 @@ public class Dog extends Animal {
 
 	public Dog() {
 		super(); // new Animal();
+	}
+	
+	public void move() {
+		System.out.println("개처럼 이동한다");
 	}
 }
