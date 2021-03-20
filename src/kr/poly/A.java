@@ -1,7 +1,5 @@
 package kr.poly;
 
-import java.lang.*;
-
 public class A extends Object {
 
 	public A() {
